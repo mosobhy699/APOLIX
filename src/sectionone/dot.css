@@ -1,0 +1,14 @@
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #e4e8eba2;
+    transition: 0.5s
+}
+
+.dot.active {
+    height: 10px;
+    width: 20px;
+    border-radius: 30px;
+    background-color: aliceblue;
+}

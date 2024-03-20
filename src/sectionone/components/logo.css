@@ -1,0 +1,32 @@
+.logoimg {
+    transition: 0.8s all ease-in-out;
+}
+
+.logo:hover .logoimg {
+    margin-right: 2px;
+}
+
+.logo:hover .logoimg:nth-child(2) {
+    margin-left: 5px;
+}
+
+
+.logoimg {
+    width: 30px;
+}
+
+.logoimg:nth-child(2) {
+    margin-left: 3px;
+}
+
+.logoimg:nth-child(4) {
+    margin-left: -6px;
+}
+
+.logoimg:nth-child(5) {
+    margin-left: -9px;
+}
+
+.logoimg:nth-child(6) {
+    margin-left: -9px;
+}
