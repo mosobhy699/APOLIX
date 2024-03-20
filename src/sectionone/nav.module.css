@@ -11,7 +11,7 @@
 .bar:hover .menubox, .menubox:hover  {
     visibility: visible;
     opacity: 1;
-    transition: 1s;
+    transition: 0.2s;
 }
 
 .menubox {
@@ -28,7 +28,7 @@
     font-size: 18px;
     opacity: 0;
     visibility: hidden;
-    transition: 0.2s;
+    transition: 0.9s;
     overflow: hidden;
 
 }
